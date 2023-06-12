@@ -1,1 +1,0 @@
-This AI is based on the GPT2 model.
